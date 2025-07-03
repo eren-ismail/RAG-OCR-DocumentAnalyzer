@@ -1,6 +1,6 @@
-# Travel Assistant – Document Q&A
+# Document Q&A
 
-Travel Assistant is a document-based question-answering system designed for travel-related use cases. It supports PDF, image (PNG/JPG), and text files using OCR and a Retrieval-Augmented Generation (RAG) architecture.
+Document-based question-answering system. It supports PDF, image (PNG/JPG), and text files using OCR and a Retrieval-Augmented Generation (RAG) architecture.
 
 ## Features
 - Upload documents in PDF, PNG, JPG, or TXT format
@@ -45,7 +45,7 @@ streamlit run gui/app.py
 
 ## Project Structure
 ```
-travel-assistant/
+RAG-OCR-DocumentAnalyzer/
 ├── app/               # FastAPI backend + RAG logic
 │   ├── main.py
 │   └── rag_pipeline.py
