@@ -7,6 +7,7 @@ Document-based question-answering system. It supports PDF, image (PNG/JPG), and 
 - Natural language Q&A based on document content
 - OCR support for scanned images and image-based PDFs
 - Context-aware answers with RAG (FAISS + LLM)
+- FLAN-T5 type Hugging Face Transformer
 - Source context visibility
 - Optional answer evaluation via ROUGE
 - FastAPI backend
