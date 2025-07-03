@@ -1,0 +1,6 @@
+Passenger name: Jane Mustermann
+Flight from Berlin to Paris departs on July 20 at 10:45 AM from Terminal A.
+Hotel check-in is available from 3 PM at Rue de Rivoli, Paris.
+You can cancel your booking for free until July 15.
+Travel insurance is included in your package.
+

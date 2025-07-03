@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+huggingface_hub
+python-multipart
+rouge-score
+opencv-python
+pillow
+easyocr
+PyMuPDF
+filetype
+
